@@ -1,7 +1,4 @@
 {
   "status": "finished",
-  "proxied": false,
-  "external": {
-    "backend": "StickerClone"
-  }
+  "proxied": false
 }
